@@ -36,7 +36,7 @@ export function Footer() {
               <div className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-blue-400 mt-1" />
                 <div>
-                  <p className="text-white">Serving across the city</p>
+                  <p className="text-white">SF - 3, 247, Sector 1, Vasundhara, Ghaziabad, Uttar Pradesh 201012</p>
                 </div>
               </div>
             </div>

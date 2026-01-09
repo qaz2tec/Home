@@ -9,6 +9,7 @@ import { Testimonials } from './components/Testimonials';
 import { TeachWithUs } from './components/TeachWithUs';
 import { ContactCTA } from './components/ContactCTA';
 import { Footer } from './components/Footer';
+import { LocationMap } from './components/LocationMap';
 
 export default function App() {
   return (
@@ -24,8 +25,9 @@ export default function App() {
         <Testimonials />
         <TeachWithUs />
         <ContactCTA />
+        <LocationMap />
       </main>
-      <Footer />
+        <Footer />
     </div>
   );
 }
